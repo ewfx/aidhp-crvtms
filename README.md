@@ -1,4 +1,4 @@
-# 🚀 Project Name
+# 🚀 AI Hyper Personalization
 
 ## 📌 Table of Contents
 - [Introduction](#introduction)
@@ -14,7 +14,7 @@
 ---
 
 ## 🎯 Introduction
-A brief overview of your project and its purpose. Mention which problem statement are your attempting to solve. Keep it concise and engaging.
+We sought to make a conversation of AI, where a user can input a customer name to generate insights and recommendations
 
 ## 🎥 Demo
 🔗 [Live Demo](#) (if applicable)  
